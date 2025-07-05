@@ -12,8 +12,6 @@ Me recibi de Tecnico Electronico, actualmente terminando el 3er año de Licencia
 
 <h4> Stack </h4>
 <span> 
-  [![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,postman,postgres,mysql,html,git,docker&theme=light)](https://skillicons.dev)
-
   - Tenologias domino: Java, Spirngboot, MySQL, Postgresql, Git, Postman.
     
   - Las siguientes tecnologias las use para implementarlas en proyectos por lo que tengo conocimiento pero no de forma profunda: JavaScript,  React, Html, Docker. 
