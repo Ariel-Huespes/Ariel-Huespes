@@ -13,7 +13,7 @@ Me recibi de Tecnico Electronico, actualmente terminando el 3er año de Licencia
 <h4> Stack </h4>
 <span> 
   
-  - Tenologias domino: Java, Spirngboot, MySQL, Postgresql, Git, Postman.
+  - Tenologias domino: Java, Springboot, MySQL, Postgresql, Git, Postman.
     
   - Las siguientes tecnologias las use para implementarlas en proyectos por lo que tengo conocimiento pero no de forma profunda: JavaScript,  React, Html, Docker. 
   <h3>
