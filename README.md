@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hola soy Ariel Huespes,
 
-<!--
-**Ariel-Huespes/Ariel-Huespes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me recibi de Tecnico Electronico, actualmente terminando el 3er año de Licenciatura en Informatica en la Universidad Nacional del Oeste
 
-Here are some ideas to get you started:
+- ⚡ Soy muy autodidacta, mis ganas de querer aprenden empezaron desde muy chico cuando al querer entender como funcionaban los
+- juguetes mi primera accion era desarmarlos, hoy años mas tarde sigo con el mismo espiritu de querer aprender pero ahora
+- orientado totalmente al desarrollo de software.
+- 🔭 Actualmente dedicandome a la rama del Back-End con Springboot, gracias a la universidad tengo una solida base sobre
+- Base de datos, armando querys y normalizando base de datos, todo esto combinado con el aprendizaje de Programacion Orientado a
+- Objetos fue que me decante por elegir esta rama del software
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h4> Stack </h4>
+<span> 
+  [![My Skills](https://skillicons.dev/icons?i=java,spring,js,react,postman,postgres,mysql,html,git,docker&theme=light)](https://skillicons.dev)
+
+  - Tenologias domino: Java, Spirngboot, MySQL, Postgresql, Git, Postman.
+    
+  - Las siguientes tecnologias las use para implementarlas en proyectos por lo que tengo conocimiento pero no de forma profunda: JavaScript,  React, Html, Docker. 
+  <h3>
+    Contacto: Arielhuespes222@gmail.com
+  </h3>
+</span>
+
+
+<a target="_blank" href="https://www.linkedin.com/in/ariel-huespes/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<br>
+</p>
