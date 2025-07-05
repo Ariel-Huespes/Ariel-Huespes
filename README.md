@@ -7,7 +7,7 @@ Me recibi de Tecnico Electronico, actualmente terminando el 3er año de Licencia
 - orientado totalmente al desarrollo de software.
 - 🔭 Actualmente dedicandome a la rama del Back-End con Springboot, gracias a la universidad tengo una solida base sobre
 - Base de datos, armando querys y normalizando base de datos, todo esto combinado con el aprendizaje de Programacion Orientado a
-- Objetos fue que me decante por elegir esta rama del software
+  Objetos fue que me decante por elegir esta rama del software
 
 
 <h4> Stack </h4>
